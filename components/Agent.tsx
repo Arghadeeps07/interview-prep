@@ -15,7 +15,7 @@ const Agent = ({userName} : AgentProps) => {
     const callStatus = CallStatus.ACTIVE;
     const message = [
         'whats your name?',
-        'My name is Arundhuti , nice to meet you !'
+        'My name is Arghadeep , nice to meet you !'
     ];
 
     const lastMessage = message[message.length-1];
